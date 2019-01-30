@@ -11,6 +11,7 @@ class a extends JPanel{
     JButton JB ;
     JButton JB1 ;
     JButton JB2 ;
+	//kab
     JButton JB3 ;
     boolean z=false;
     boolean z1=false;
