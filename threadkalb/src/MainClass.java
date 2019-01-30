@@ -18,6 +18,7 @@ class a extends JPanel{
 	th1 alaa;
 	th2 alaa1;
 	th2 alaa2;
+	//شسمنسشيشسب
 	int x ;
 	boolean t = false;
 	int y;
