@@ -21,6 +21,7 @@ class a extends JPanel{
 	int x ;
 	boolean t = false;
 	int y;
+	//alaa 
 	int x1;
 	int y1;
 	Rectangle Z ;
